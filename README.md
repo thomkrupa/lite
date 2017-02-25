@@ -36,6 +36,10 @@ You can also [install it manually](#manual-installation).
 Usage
 -----
 
+The easiest way to use splitsh is to integrate it with Git:
+
+    cp bin/git-splitsh.sh "$(git --exec-path)"/git-splitsh
+
 Let say you want to split the `lib/` directory of a repository to its own
 branch; from the "master" Git repository (bare or clone), run:
 
