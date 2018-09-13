@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/libgit2/git2go.v27"
+	"gopkg.in/libgit2/git2go.v26"
 )
 
 // Result represents the outcome of a split
