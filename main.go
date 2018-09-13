@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/splitsh/lite/splitter"
+	"github.com/thomkrupa/lite/splitter"
 )
 
 var (
