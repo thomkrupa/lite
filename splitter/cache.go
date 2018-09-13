@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/boltdb/bolt"
-	"gopkg.in/libgit2/git2go.v26"
+	"git2go"
 )
 
 type cache struct {
